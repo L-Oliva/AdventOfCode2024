@@ -1,6 +1,6 @@
 # Challenge 1
 import heapq
-id = open("Day1.txt")
+id = open("Inputs/Day1.txt")
 left = []
 right = []
 sum = 0
@@ -17,7 +17,7 @@ print(sum)
 
 # Challenge 2
 from collections import Counter
-id = open("Day1.txt")
+id = open("Inputs/Day1.txt")
 left = []
 right = []
 similarity = 0
