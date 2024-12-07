@@ -27,8 +27,6 @@
 # print(res)
 
 # Challenge 2
-# Could not Get Working
-
 
 from copy import deepcopy
 input_ = open("Inputs/Day6.txt")
